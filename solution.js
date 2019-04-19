@@ -1,4 +1,4 @@
-function findWord(text, data) 
+
   let checker = [1, 1, 1, 1];
   for (let i = 0; i < data.length; i++) {
     for (let j = 0; j < data[i].length; j++) {
